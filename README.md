@@ -1,16 +1,20 @@
-## Hi there 👋
+### 🚀 Quick Overview
 
-<!--
-**yadavdeepesh07/yadavdeepesh07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```python
+class DataScientist:
+    def __init__(self):
+        self.name = "Deepesh Yadav"
+        self.education = "M.Sc in AI & ML"
+        self.institution = "Indian Institute of Information Technology, Lucknow"
+        self.background = "Data Science, Artificial Intelligence & Machine Learning"
+        self.location = "India"
+        self.skills = ["Python", "Pandas", "Power BI", "LSTM", "YOLO", "Scikit-Learn","deep learning", "machine learning",""]
+        self.interests = ["AI", "LLMs", "Prompt Engineering", "Product Analytics", "AI Engineer",]
+        self.current_focus = "Building AI-powered dashboards & machine learning and deep learning  models"
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    def say_hi(self):
+        print("🚀 Turning data into decisions!")
+        
+me = DataScientist()
+me = AIEngineer()
+me.say_hi()
